@@ -1,0 +1,77 @@
+ /* td{
+    border: 2px solid black;
+} 
+  body{
+    background-color: rgb(68, 97, 84);
+ } 
+ /* universal selector */
+ /* *{ 
+     background-color:aqua; 
+     text-align:left;
+ } */
+ /* element selector */
+  /* ul{
+    background-color:lightgreen;
+    text-align:center;
+ }  */
+ /* class selector */
+  /* .about-para{
+    background-color: blue;
+ }
+ .about-list{
+    color: darkgoldenrod;
+ }  */
+ /* id selector */
+  /* #heading{
+    color:darkgreen;
+ }  */
+ /* group selector */
+  /* ol,ins,a{
+    font-size:24px;
+ }  */
+ /* descendent selector */
+  /* footer ul{
+    background-color:lightseagreen;
+ }
+ .about-para,.about-list{background-color:blueviolet;
+}  */
+
+/* font-size
+px
+%
+em
+rem
+vw
+ 
+  */
+/* font-style- to change the style of the text
+font-family-to change the font
+font-weight-to change to normal to medium to bold
+line-height-to provide the height and space between 2 lines.
+text-decoration-used to deccor the text
+text-transformation-to upper,lower,capitalize the text 
+letter-spacing-  */
+div p{
+  color:blue;
+}
+.box-model{
+  padding:20px 100px;
+  border:1px solid black;
+  margin:20px;
+  width:300px;
+  height:100px;
+}
+
+span{
+  border:1px solid rgb(23, 18, 95);
+  padding:20px 20px;
+}
+.block-contain{
+  border:1px solid black;
+  padding:20px 50px;
+  margin:20px;
+}
+
+.relative-block{
+  border:1px solid black;
+}

@@ -1,0 +1,34 @@
+.one{
+    font-weight:bold;
+    background-color:aqua;
+}
+.three{
+    font-weight:bold;
+
+}
+#four{
+    text-align:center;
+}
+.two{
+    background-color:darkgray;
+}
+.five{
+    background-color:bisque;
+}
+.four{
+    background-color:lightpink;
+}
+.seven{
+    background-color:aquamarine;
+}
+.eight{
+    background-color:orchid;
+}
+.nine{
+    background-color:palegreen;
+}
+body{
+    background-image:url("image.png");
+    background-size:cover;
+    background-position:center;
+}
